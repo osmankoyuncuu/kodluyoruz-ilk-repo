@@ -3,7 +3,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde  oluştur
 
 ![](https://www.hizliresim.com/8qglefk)
 
-
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
